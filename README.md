@@ -1,6 +1,6 @@
 ﻿# TinyFarmer-BitMoss-Sensor
 
-타이니파머의 센서값과 제어등을 처리하는 농장의 에이전트 (Agent)
+센서값을 모아 전달하는 센서노드 (Sensor Node)
 ==========================
 
 ![TinyFarmer_Bitmoss_Sensor Intro](https://github.com/makezonefablab/TinyFarmer-BitMoss-Sensor/blob/master/img/bitmossSensor1.png)  
