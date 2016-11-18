@@ -1,7 +1,4 @@
 # TinyFarmer-BitMoss-Controller
-
-
-# TinyFarmer-Arduino-Shield
   
   
  ![TinyFarmer-Bitmoss-Controller Intro](https://github.com/makezonefablab/TinyFarmer-BitMoss-Controller/blob/master/img/bitmossController.png)      
