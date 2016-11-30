@@ -15,20 +15,6 @@
 전용 AP (TinyFarmer AP)와의 연결로 쉽게 데이터를 모아 중앙 센터로 전송합니다.
 
 
-준비물
---------------
-
-![TinyFarmer_Bitmoss_Sensor](https://github.com/makezonefablab/TinyFarmer-HUB/blob/master/img/rasp.jpg) 
-
-
-
-사용 아두이노 라이브러리
---------------
-
-
-
-제작영상
---------------
 
 
 
