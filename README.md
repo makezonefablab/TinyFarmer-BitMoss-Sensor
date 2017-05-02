@@ -14,34 +14,22 @@
 부가 기능의 액세서리 보드를 연결하여 확장 가능하므로 어떠한 제어 대상의 장치도 비트모스 하나로 똑똑해질 수 있습니다.
 
 ### Latest version 
-[*라즈베리 3 unstable (2017.04.12)*](http://106.240.234.12/tinyfarmer/atth/2017-04-12-raspbian-jessie-Raspberry3_tinyfarmerHUB_8G.img)
-```
-2017.04.12 
+2017.05.02 
 - 통신보안(security)기능 적용
 - 비트모스콘트롤러 프로토콜 변경
 - my.tinyfarmer.com과 호환되지 않음 (클라우드 업데이트 후 사용가능)
-- TinyFarmer-Arduino-Shield의 라이브러리 1.5버전과 호환됨 (*)
+- LCD현재 상태 표시
+- RTC시간 수정 버튼 기능
+- 타이니파머 허브 "라즈베리 3 unstable (2017.04.12)" 이상 버전부터 호환
 
-* 알려진 버그
-- 클라우드 상에 허브가 정상적으로 연결이지만, 표시는 "끊김" 표시가 종종 나타남
-```
-
-[*2017.04.04]
-```
-2017.04.04 
-- 신규 클라우드로 주소(my.tinyfarmer.com) 변경 
-- TinyFarmer-Arduino-Shield의 라이브러리 1.5버전과 호환됨 (*)
-
-* 알려진 버그
-- 클라우드 상에 허브가 정상적으로 연결이지만, 표시는 "끊김" 표시 상태임
 ```
 
 
-[*라즈베리 2 (2016.11.30)*](http://my.tinyfarmer.com/tinyfarmer/atth/TinyFarmer-Hub-Raspberry2.img)
 
 설치 
 --------------
-설치를 위해서는 위의 OS 이미지파일을 바로 사용하거나 기존의 라즈베리파이 OS를 설치 후 아래 지시사항에 따라 개별설치하여도 됩니다.
+소스를 다운받아 다운로더 장치로 다운받는다. 다운로더는 USB2SERIAL장치 중 대부분과 호환이 되며, 특히, DFRobot의 USB Serial Light (https://www.dfrobot.com/product-581.html)와 100% 호환된다. 
+다운로드 방법은 Arduino IDE 환경에서 가능하다.
 
 > 1. 소스 다운로드 
 ```
