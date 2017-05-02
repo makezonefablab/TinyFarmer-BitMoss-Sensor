@@ -32,38 +32,10 @@
 소스를 다운받아 다운로더 장치로 다운받는다. 다운로더는 USB2SERIAL장치 중 대부분과 호환이 되며, 특히, DFRobot의 USB Serial Light(https://www.dfrobot.com/product-581.html) 와 100% 호환된다. 
 다운로드 방법은 Arduino IDE 환경에서 가능하다.
 
-> 1. 소스 다운로드 
-```
-~ $ cd /home/mediaflow
-~ $ wget https://github.com/makezonefablab/TinyFarmer-HUB/tree/master/src/TinyfarmerHubWeb.zip
-~ $ wget https://github.com/makezonefablab/TinyFarmer-HUB/tree/master/src/TinyfarmerHub.zip
-~ $ tar xvf TinyfarmerHub.zip
-~ $ tar xvf TinyfarmerHubWeb.zip
-```
-> 2.자바 메인모듈 
-```
-~ $ cd TinyfarmerHub/bin
-~ $ sudo chown root:root TinyfarmerHub.sh
-~ $ sudo chmod 744 TinyfarmerHub.sh
-```
-> 3.Web Application GUI 
-```
-~ $ sudo vi /usr/local/tomcat-8.0.36/conf/Catalina/localhost/ROOT.xml    (아래 XML 내용 추가)
-~ $ sudo service tomcat restart
-```
-
-
-~~~ xml
-<?xml version='1.0' encoding='utf-8'?>
-<Context crossContext="true" path="" docBase="/home/mediaflow/TinyfarmerHubWeb" >
-</Context >
-~~~
-
 
 
 
 준비물
 --------------
 
-![TinyFarmer-HUB App](https://github.com/makezonefablab/TinyFarmer-HUB/blob/master/img/rasp.jpg) 
 
