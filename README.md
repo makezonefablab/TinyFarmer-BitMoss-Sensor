@@ -29,7 +29,7 @@
 
 설치 
 --------------
-소스를 다운받아 다운로더 장치로 다운받는다. 다운로더는 USB2SERIAL장치 중 대부분과 호환이 되며, 특히, DFRobot의 [*USB Serial Light*] (https://www.dfrobot.com/product-581.html)와 100% 호환된다. 
+소스를 다운받아 다운로더 장치로 다운받는다. 다운로더는 USB2SERIAL장치 중 대부분과 호환이 되며, 특히, DFRobot의 USB Serial Light(https://www.dfrobot.com/product-581.html) 와 100% 호환된다. 
 다운로드 방법은 Arduino IDE 환경에서 가능하다.
 
 > 1. 소스 다운로드 
