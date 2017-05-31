@@ -16,6 +16,19 @@
 
 설치 
 --------------
+비트모스센서는 반드시 타이니파머 허브와 연동이 되어 사용되어집니다.
+
+[타이니파머 허브와 연동되어 사용해야 합니다. - 사이트 바로가기]
+(https://github.com/makezonefablab/TinyFarmer-HUB)
+
+
+소스 업로드를 위해서는 비트모스 쉴드 라이브러리를 반드시 포함하여야 합니다. 해당 라이브러리는 아래의 주소에서 다운받아 설치합니다.
+
+#### BitMoss shield 라이브러리
+
+> https://github.com/makezonefablab/TinyFarmer-BitMoss-Sensor/
+
+
 소스를 다운받아 다운로더 장치로 다운받는다. 다운로더는 USB2SERIAL장치 중 대부분과 호환이 되며, 특히, DFRobot의 USB Serial Light(https://www.dfrobot.com/product-581.html) 와 100% 호환된다. 
 다운로드 방법은 Arduino IDE 환경에서 가능하다.
 
