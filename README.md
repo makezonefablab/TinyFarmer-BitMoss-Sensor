@@ -1,4 +1,4 @@
-# TinyFarmer-BitMoss-Sensor  - not suported
+# TinyFarmer-BitMoss-Sensor  (not suported)
 
 센서값을 모아 전달하는 센서노드 (Sensor Node)
 ==========================
