@@ -1,6 +1,6 @@
 # TinyFarmer-BitMoss-Sensor
 
-센서값을 모아 전달하는 센서노드 (Sensor Node)
+센서값을 모아 전달하는 센서노드 (Sensor Node) - not suported
 ==========================
 
 ![TinyFarmer_Bitmoss_Sensor Intro](https://github.com/makezonefablab/TinyFarmer-BitMoss-Sensor/blob/master/img/bitmossSensor1.png)  
